@@ -38,13 +38,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-`import numpy as np
-import pandas as pd
+`import numpy as np`
+`import pandas as pd
 import matplotlib.pyplot as plt 
 import sklearn 
 import seaborn as sns 
 import folium
-import random
+import random`
 
 from sklearn.linear_model import LinearRegression`
 
