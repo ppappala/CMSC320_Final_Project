@@ -32,13 +32,13 @@ I would also like to determine correlations between damage and movement descript
 
 To end this all, could one predict the damage done to a vehicle in a crash using only a select few features with decent correlation?
 
-`{python} import numpy as np
+```{python} import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import sklearn
 import seaborn as sns
 import folium
-import random`
+import random```
 
 # Header 1
 ## Header 2
