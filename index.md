@@ -34,19 +34,13 @@ You can use the [editor on GitHub](https://github.com/ppappala/CMSC320_Final_Pro
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 `import numpy as np`
-`import pandas as pd
-import matplotlib.pyplot as plt 
-import sklearn 
-import seaborn as sns 
-import folium
-import random`
-
-from sklearn.linear_model import LinearRegression`
+`import pandas as pd`
+`import matplotlib.pyplot as plt`
+`import sklearn` 
+`import seaborn as sns` 
+`import folium`
+`import random`
 
 # Header 1
 ## Header 2
