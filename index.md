@@ -34,13 +34,13 @@ You can use the [editor on GitHub](https://github.com/ppappala/CMSC320_Final_Pro
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-```import numpy as np`
-`import pandas as pd`
-`import matplotlib.pyplot as plt`
-`import sklearn` 
-`import seaborn as sns` 
-`import folium`
-`import random```
+```import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import sklearn
+import seaborn as sns
+import folium
+import random```
 
 # Header 1
 ## Header 2
@@ -55,7 +55,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
