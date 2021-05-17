@@ -6,7 +6,7 @@ Maryland is notorious for bad drivers and bad driving. Personal story, my parent
 
 So, I was motivated to understand what factors can predict a crash with Maryland vehicles, so I looked at the official Maryland open data websites funded by the state government.
 
-Here are the libraries that were used as well as references to them for future data science use
+Here are the libraries that were used as well as references to them for future data science use.
 
 Numpy -> used for certain mathematical functions that make predictions easier
 
@@ -20,9 +20,9 @@ Seaborn -> used to help plot and highlight correlations in data
 
 Folium -> used to help map Maryland as well as the crashes that occurred
 
-The first dataset is a CSV file of Maryland statewide vehicle crashes garnered from official crash reports which was retrieved from this website: https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu
+The first dataset is a CSV file of Maryland statewide vehicle crashes garnered from official crash reports from 2015-2020 which was retrieved from this website: https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu
 
-The second dataset is a CSV file of vehicle details garnered from the exact same set of official crash reports which was retrieved from this website: https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes-Vehicle-Details/mhft-5t5y
+The second dataset is a CSV file of vehicle details garnered from the exact same set of official crash reports from 2015-2020 which was retrieved from this website: https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes-Vehicle-Details/mhft-5t5y
 
 With that personal story in mind, I wanted to focus on some of the aspects behind the severity of a crash in Maryland. Do some crashes happen more in certain areas of Maryland than others? Do some features (like road conditions or daylight conditions) suggest a crash is more likely to happen?
 
@@ -38,8 +38,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+`import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt 
+import sklearn 
+import seaborn as sns 
+import folium
+import random
+
+from sklearn.linear_model import LinearRegression'
 
 # Header 1
 ## Header 2
