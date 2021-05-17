@@ -1,5 +1,7 @@
 ## Analyzing Maryland Crashes from 2015 to 2020 by Pranav Pappala
-
+```{python}
+  print("Hello!")
+```
 The start of this data analysis starts with a personal observation.
 
 Maryland is notorious for bad drivers and bad driving. Personal story, my parents' car insurance used to be 300 dollars with me, and that was a really good deal due to their safe driving habits and good credit. The moment we moved to Maryland, that number close to tripled and reached roughly 1000 dollars. I learned that the main reason why that figure shot up was because Maryland drivers got into a lot of crashes, so to compensate, the premiums from the insurance companies went up quite a bit.
