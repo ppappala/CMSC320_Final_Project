@@ -9,11 +9,17 @@ So, I was motivated to understand what factors can predict a crash with Maryland
 Here are the libraries that were used as well as references to them for future data science use
 
 Numpy -> used for certain mathematical functions that make predictions easier
+
 Pandas -> used to place data from files and place them in dataframes
+
 Matplotlib -> used to help plot data in a 2D figure for simple analysis
+
 Scikit-learn -> used to help create predictive model for crash severity
+
 Seaborn -> used to help plot and highlight correlations in data
+
 Folium -> used to help map Maryland as well as the crashes that occurred
+
 The first dataset is a CSV file of Maryland statewide vehicle crashes garnered from official crash reports which was retrieved from this website: https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes/65du-s3qu
 
 The second dataset is a CSV file of vehicle details garnered from the exact same set of official crash reports which was retrieved from this website: https://opendata.maryland.gov/Public-Safety/Maryland-Statewide-Vehicle-Crashes-Vehicle-Details/mhft-5t5y
