@@ -46,7 +46,7 @@ import seaborn as sns
 import folium
 import random
 
-from sklearn.linear_model import LinearRegression'
+from sklearn.linear_model import LinearRegression`
 
 # Header 1
 ## Header 2
